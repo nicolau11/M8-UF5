@@ -150,4 +150,8 @@ public class CCompteBancari {
             return true;
         }
     }
+    
+    public static void saludo() {
+        System.out.println("SALUTACIONS");
+    }
 }
