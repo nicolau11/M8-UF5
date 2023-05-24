@@ -166,6 +166,13 @@ public class CAplicacio {
                                 
                                 saldototal = nousaldo + c.getSaldo();
                                 c.setSaldo(saldototal);
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                             }
                         }
                     }

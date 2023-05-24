@@ -154,4 +154,3 @@ public class CCompteBancari {
     public static void saludo2() {
         System.out.println("SALUTACIONS!");
     }
-}
